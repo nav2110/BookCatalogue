@@ -1,0 +1,30 @@
+
+O
+squid:S106q"9Replace this use of System.out or System.err by a logger.(Á“Ì†
+P
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(ƒ æİ
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†ëıÊ
+T
+squid:S106m"9Replace this use of System.out or System.err by a logger.(àİ¶‡üÿÿÿÿ
+T
+squid:S106S"9Replace this use of System.out or System.err by a logger.(ÉÍÊ›şÿÿÿÿ
+O
+squid:S106D"9Replace this use of System.out or System.err by a logger.(‘ª­
+T
+squid:S106{"9Replace this use of System.out or System.err by a logger.(àİ¶‡üÿÿÿÿ
+Zsquid:S1155C">Use isEmpty() to check whether the collection is empty or not.(ÑÀ˜ıÿÿÿÿ
+T
+squid:S106a"9Replace this use of System.out or System.err by a logger.(¨è¦øÿÿÿÿ
+U
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(¤¸¸Öùÿÿÿÿ
+T
+squid:S106i"9Replace this use of System.out or System.err by a logger.(é½µúûÿÿÿÿ
+O
+squid:S1068"9Replace this use of System.out or System.err by a logger.(öÄêµ
+T
+squid:S106O"9Replace this use of System.out or System.err by a logger.(ÉÍÊ›şÿÿÿÿ
+T
+squid:S106x"9Replace this use of System.out or System.err by a logger.(®İªïıÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(î…¥ßüÿÿÿÿ
+{squid:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(›š˜Œ
